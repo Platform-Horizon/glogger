@@ -1,4 +1,4 @@
-module github.com/riccardotzr/glogger
+module github.com/platform-horizon/glogger
 
 go 1.17
 
